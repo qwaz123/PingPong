@@ -72,4 +72,10 @@ public class Ball {
   public double getCenterY() {
     return ball.getCenterY();
   }
+  public void setCenterX(double x) {
+    ball.setCenterX(x);
+  }
+  public void setCenterY(double y) {
+    ball.setCenterY(y);
+  }
 }
